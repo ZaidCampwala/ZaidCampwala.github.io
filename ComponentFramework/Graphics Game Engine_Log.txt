@@ -1,0 +1,13 @@
+[INFO]: Starting the GameSceneManager
+[INFO]: OpenGL version: 4.6.13596 Compatibility Profile Context 20.10.32 27.20.1032.2
+[INFO]: Graphics card vendor ATI Technologies Inc.
+[INFO]: Graphics card name AMD Radeon(TM) Vega 8 Graphics
+[INFO]: GLSL Version 4.60
+[INFO]: Created Scene0: 
+[INFO]: Created Scene1: 
+[INFO]: Created Scene2:
+[INFO]: Created Scene2:
+[INFO]: Creating Scene4:
+[INFO]: Creating Scene5:
+[WARNING]: normalMatrix :No such uniform name in file: C:\Users\zacam\Desktop\Toronto_Skybox\ComponentFramework\Shader.cpp on line: 141
+[INFO]: Deleting the GameSceneManager

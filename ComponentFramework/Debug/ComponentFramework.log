@@ -1,0 +1,35 @@
+﻿  Camera.cpp
+C:\Users\zacam\Desktop\Toronto_Skybox\ComponentFramework\Camera.cpp(14,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  Debug.cpp
+  GameObject.cpp
+  MMath.cpp
+  Noise.cpp
+  Particles.cpp
+  Physics.cpp
+  PhysicsObject.cpp
+  Randomizer.cpp
+  Scene0.cpp
+  Scene0_Adv.cpp
+  Scene1.cpp
+  Scene2.cpp
+  Scene3.cpp
+  Scene4.cpp
+  Scene5.cpp
+  SceneManager.cpp
+  Main.cpp
+  Mesh.cpp
+  ObjLoader.cpp
+  Generating Code...
+  Compiling...
+  Shader.cpp
+  SkyBox.cpp
+  Texture.cpp
+  Timer.cpp
+  TrackBall.cpp
+C:\Users\zacam\Desktop\Toronto_Skybox\ComponentFramework\TrackBall.cpp(58,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zacam\Desktop\Toronto_Skybox\ComponentFramework\TrackBall.cpp(73,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zacam\Desktop\Toronto_Skybox\ComponentFramework\TrackBall.cpp(76,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  VMath.cpp
+  Window.cpp
+  Generating Code...
+  ComponentFramework.vcxproj -> C:\Users\zacam\Desktop\Toronto_Skybox\Debug\ComponentFramework.exe
